@@ -1,2 +1,2 @@
 # HTML-and-CSS-Projects
-This is where I am uploading my code I create for my HTML and CSS course
+Welcome to my HTML and CSS Projects Repository! This repository is a collection of various projects focused on HTML and CSS, aimed at helping me enhance my web development skills and gain hands-on experience with these fundamental technologies.
