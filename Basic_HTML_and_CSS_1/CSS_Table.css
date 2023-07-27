@@ -1,0 +1,25 @@
+/* Apply styles to the table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #f0f0f0; /* Background color of the table */
+}
+
+/* Apply styles to table cells */
+td, th {
+  padding: 8px;
+  border: 1px solid #ccc; /* Border for table cells */
+}
+
+/* Change font color for table headers */
+th {
+  color: #ffffff; /* Font color for table headers */
+  background-color: #333333; /* Background color for table headers */
+}
+
+/* Hover effect on table rows */
+tr:hover {
+  background-color: #e6e6e6; /* Background color on hover */
+}
+
+
